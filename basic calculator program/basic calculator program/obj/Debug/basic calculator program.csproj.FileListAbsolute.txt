@@ -1,0 +1,10 @@
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\bin\Debug\basic calculator program.exe.config
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\bin\Debug\basic calculator program.exe
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\bin\Debug\basic calculator program.pdb
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic calculator program.csproj.AssemblyReference.cache
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic_calculator_program.Form1.resources
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic_calculator_program.Properties.Resources.resources
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic calculator program.csproj.GenerateResource.cache
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic calculator program.csproj.CoreCompileInputs.cache
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic calculator program.exe
+C:\Users\sibon\source\repos\basic calculator program\basic calculator program\obj\Debug\basic calculator program.pdb
